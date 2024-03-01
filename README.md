@@ -41,6 +41,10 @@
        <li> <a href="https://www.codingninjas.com/studio/problems/find-k-th-smallest-element-in-bst_1069333?leftPanelTab=0&leftPanelTabValue=PROBLEM">Kth Smallest</a></li>
        <li> <a href="https://www.codingninjas.com/studio/problems/_893049?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0&leftPanelTabValue=SUBMISSION">Predeccor and Successor BST</a></li>
        <li> <a href="https://www.codingninjas.com/studio/problems/lca-in-a-bst_981280?leftPanelTab=0">LCA BST</a></li>
+             <li> <a href="https://leetcode.com/problems/delete-node-in-a-bst/">450. Delete Node in a BST</a></li>
+       <li> <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">700. Search in a Binary Search Tree</a></li>
+       <li> <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">701. Insert into a Binary Search Tree
+      </a></li>
       </ol>
     
 </details>
