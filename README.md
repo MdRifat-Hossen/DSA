@@ -33,3 +33,14 @@
       </ol>
     
 </details>
+
+<details>
+<summary>Binary Search Tree</summary>
+      <ol>
+       <li> <a href="https://www.codingninjas.com/studio/problems/validate-bst_799483?leftPanelTab=0">Valiat BST</a></li>
+       <li> <a href="https://www.codingninjas.com/studio/problems/find-k-th-smallest-element-in-bst_1069333?leftPanelTab=0&leftPanelTabValue=PROBLEM">Kth Smallest</a></li>
+       <li> <a href="https://www.codingninjas.com/studio/problems/_893049?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0&leftPanelTabValue=SUBMISSION">Predeccor and Successor BST</a></li>
+       <li> <a href="https://www.codingninjas.com/studio/problems/lca-in-a-bst_981280?leftPanelTab=0">LCA BST</a></li>
+      </ol>
+    
+</details>
