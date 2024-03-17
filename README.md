@@ -1,7 +1,5 @@
 # DSA
-
-
-
+<i>
 <details>
 <summary>STACK</summary>
       <ol>
@@ -48,3 +46,18 @@
       </ol>
     
 </details>
+
+<details>
+<summary>Graph</summary>
+    <ol>
+       <li> <a href="https://www.codingninjas.com/studio/problems/create-a-graph-and-print-it_1214551?topList=love-babbar-dsa-sheet-problems/">Implement Of Graph</a></li>
+       <li> <a href="https://www.codingninjas.com/studio/problems/bfs-in-graph_973002?topList=love-babbar-dsa-sheet-problems/">implement BFS</a></li>
+       <li> <a href="https://www.codingninjas.com/studio/problems/dfs-traversal_630462?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar&count=25&page=4&search=&sort_entity=order&sort_order=ASC&attempt_status=COMPLETED&leftPanelTabValue=SUBMISSION">DFS</a></li>
+       <li> <a href=""></a></li>
+       <li> <a href=""></a></li>
+       <li> <a href=""></a></li></ol>
+      
+    
+    
+</details>
+</i>
